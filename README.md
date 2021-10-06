@@ -1,0 +1,6 @@
+- `npm run dev`
+- change `js/app.js` and see webpack output
+- `git checkout 5.56.0`
+- `npm i`
+- `npm run dev`
+- change `js/app.js` and see webpack output
